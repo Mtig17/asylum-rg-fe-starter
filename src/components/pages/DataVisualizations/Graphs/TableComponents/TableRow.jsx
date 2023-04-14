@@ -38,6 +38,8 @@ function TableRow(props) {
             );
           }
         }
+
+        return <></>;
       })}
     </div>
   );
